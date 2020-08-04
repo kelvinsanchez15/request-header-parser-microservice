@@ -12,7 +12,7 @@ app.get("/", (req, res) => res.sendFile(`${__dirname}/views/index.html`));
 
 app.get("/api/whoami", (req, res) => {
   res.json({
-    ipadress: req.ip,
+    ipaddress: req.ip,
     language: req.header("accept-language"),
     software: req.header("user-agent"),
   });
