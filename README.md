@@ -2,7 +2,7 @@
 
 ## View project
 
-[Request Header Parser Microservice](https://kel-timestamp-microservice.herokuapp.com/)
+[Request Header Parser Microservice](https://request-header-parser-kel.herokuapp.com/)
 
 ## User stories:
 
@@ -10,7 +10,7 @@
 
 ### Example usage:
 
-- [base_url]/api/whoami
+- https://request-header-parser-kel.herokuapp.com/api/whoami
 
 ### Example output:
 
