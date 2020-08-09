@@ -18,4 +18,4 @@ app.get("/api/whoami", (req, res) => {
   });
 });
 
-app.listen(port, () => console.log(`Server runnig at port ` + port));
+app.listen(port, () => console.log(`Server running at port ` + port));
